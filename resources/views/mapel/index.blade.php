@@ -149,7 +149,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>mapel</h1>
+            <h1>mata pelajaran</h1>
             <a href="{{ route('mapel.create') }}" class="btn-tambah">tambah mapel</a>
         </div>
 
